@@ -48,7 +48,7 @@ app.layout = html.Div([
     html.Div([
         html.H1(
             children = 'Graph 1',
-            #style = {'backgroundColor': '#c2dbec', 'font-family': 'Arial, Helvetica, sans-serif', 'text-align': 'center', 'color': '#103346'}
+            style = {'backgroundColor': '#c2dbec', 'font-family': 'Arial, Helvetica, sans-serif', 'text-align': 'center', 'color': '#103346'}
         ),
         html.Div([
             html.P(
